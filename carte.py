@@ -1,0 +1,1 @@
+#bug permanent avec basemap... a re-essayer sur une autre config
