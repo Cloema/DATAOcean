@@ -1,5 +1,9 @@
-#!/usr/bin/python
-# vim: set fileencoding=utf-8 :
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+# csstrace.py
+#author : CRI students
+#date : september 2019
+#version : V1.0
 
 import csv
 import matplotlib.pyplot as plt
